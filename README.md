@@ -1,4 +1,4 @@
-# InstagramBotGUI
+# InstagramBotGUI (Currently in progress as of 8/16/2020)
 ### App Description
 This code is intended to find users who you follow but don't follow you, all while trying to present the users in a neat/presentable GUI format.
 ## Credit to: 
